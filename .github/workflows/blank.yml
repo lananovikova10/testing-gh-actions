@@ -15,6 +15,8 @@ jobs:
         PRODUCT: help-module/d
         ARTIFACT: webHelpD2-all.zip
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
       - run: |  
           set -e
           /opt/builder/bin/idea.sh helpbuilderinspect -source-dir . -product $PRODUCT -output-dir artifacts/ || true
