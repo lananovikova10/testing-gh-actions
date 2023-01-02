@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/html-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://helpserver.labs.jb.gg/help/schemas/mvp/topic.v2.xsd"
+       title="About docs" id="docs">
+
+    <section-starting-page><title>All about the product</title>
+        <description>Short description.</description>
+        <primary><title>Get started</title>
+        <a href="Add-a-data.md"/>
+        <a href="DSL-reference.md"/>
+        </primary>
+        <secondary><title>More topics</title>
+        <a href="For-and-sections.topic"/>
+            <a href="DSL-reference.md"/>
+        </secondary>
+    </section-starting-page>
+</topic>

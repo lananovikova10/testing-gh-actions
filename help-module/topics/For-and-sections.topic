@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/html-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://helpserver.labs.jb.gg/help/schemas/mvp/topic.v2.xsd"
+       title="For and sections" id="For-and-sections" switcher-label="letter">
+
+    <if switcher-key="b">
+        <p>one</p>
+        <p>two</p>
+    </if>
+    <p switcher-key="a">Start typing here...</p>
+    <p switcher-key="b">According to this ticket https://youtrack.jetbrains.com/issue/WH-3609 there
+        is no way to wrap multiple elements to switch in the output (for example sections),
+        it is not supported if won't work with switcher-key.
+    </p>
+</topic>

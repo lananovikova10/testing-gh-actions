@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/redirection-rules.dtd">
+<rules>
+    <rule id="76775083">
+        <description>Created after removal of "Add a data" from docs</description>
+        <accepts>JVM-Spring-boot.html</accepts>
+    </rule>
+    <rule id="17ca1a94">
+        <description>Created after removal of "How to get terraform to recognize third party provider" from docs
+        </description>
+        <accepts>With-tabs.html</accepts>
+    </rule>
+</rules>

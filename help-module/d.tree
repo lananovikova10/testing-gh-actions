@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/product-profile.dtd">
+
+<instance-profile id="d"
+                 name="docs"
+                 start-page="docs.topic">
+
+    <toc-element topic="docs.topic"/>
+    <toc-element topic="DSL-reference.md"/>
+    <toc-element topic="For-and-sections.topic"/>
+    <toc-element topic="Add-a-data.md"/>
+    <toc-element topic="fff.md"/>
+    <toc-element topic="How-to-do-things.md"/>
+</instance-profile>
