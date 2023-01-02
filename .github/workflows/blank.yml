@@ -12,8 +12,8 @@ jobs:
     container: 
       image: registry.jetbrains.team/p/writerside/builder/writerside-builder:2.1.931
       env:
-        PRODUCT: stardust-help/pd
-        ARTIFACT: webHelpPD2-all.zip
+        PRODUCT: help-module/d
+        ARTIFACT: webHelpD2-all.zip
     steps:
     - run: |  
         set -e
