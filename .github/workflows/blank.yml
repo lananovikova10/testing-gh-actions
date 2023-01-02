@@ -10,7 +10,7 @@ jobs:
   build-job:
     runs-on: ubuntu-latest
     container: 
-      image: registry.jetbrains.team/p/writerside/builder/writerside-builder:2.1.931
+      image: registry.jetbrains.team/p/writerside/builder/writerside-builder:2.1.984
       env:
         PRODUCT: help-module/d
         ARTIFACT: webHelpD2-all.zip
