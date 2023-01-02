@@ -27,5 +27,5 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: artifact
-          path: artifacts/$ARTIFACT
+          path: artifacts/help.zip
           retention-days: 7
