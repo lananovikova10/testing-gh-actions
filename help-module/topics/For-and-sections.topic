@@ -5,6 +5,7 @@
        xsi:noNamespaceSchemaLocation="https://helpserver.labs.jb.gg/help/schemas/mvp/topic.v2.xsd"
        title="For and sections" id="For-and-sections" switcher-label="letter">
 
+
     <if switcher-key="b">
         <p>one</p>
         <p>two</p>
@@ -14,4 +15,7 @@
         is no way to wrap multiple elements to switch in the output (for example sections),
         it is not supported if won't work with switcher-key.
     </p>
+    <chapter title="Cool title">
+        <p>Chapter.</p>
+    </chapter>
 </topic>

@@ -7,4 +7,5 @@
     <instance src="d.tree" web-path="/d/" version="1.0"/>
     <topics dir="topics"/>
     <images dir="images" version="1.0"/>
+    <module name="help-module"/>
 </ihp>
