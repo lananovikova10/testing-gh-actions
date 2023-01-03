@@ -12,5 +12,7 @@
     <toc-element topic="Add-a-data.md"/>
     <toc-element topic="fff.md"/>
     <toc-element topic="How-to-do-things.md"/>
-    <toc-element toc-title="Learning Center" href="https://www.jetbrains.com/clion/learn/">
+    <toc-element topic="Tutorial-How-to-ride-a-bike.topic"/>
+    <toc-element topic="Tutorial-Master-the-Markdown.md"/>
+    <toc-element toc-title="Learning Center" href="https://www.jetbrains.com/clion/learn/"/>
 </instance-profile>
