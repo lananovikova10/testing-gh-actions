@@ -34,7 +34,7 @@ jobs:
     environment:
         name: github-pages
         url: ${{ steps.deployment.outputs.page_url }}
-    needs: job_1
+    needs: build-job
     runs-on: ubuntu-latest
     steps:
       - name: Download math result for job 1
